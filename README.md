@@ -1,5 +1,5 @@
 # Pandora Box
-Pandora Box is a raspberry pi based Pandora Radio player. Once assembled, you are able to use buttons to interact with the Raspberry Pi, being able to pause, skip, like, and dislike songs, along with other options.
+The Pandora Box is a raspberry pi based Pandora Radio player. Once assembled, you are able to use buttons to interact with the Raspberry Pi, being able to pause, skip, like, and dislike songs, as well as use other functions.
 
 *Note: This project is not built with reproduction in mind. It is built with the intent of being a gift for a friend of mine. The project might not work as it should if it is replicated and not setup properly. However, if you know what you're doing, it shouldn't be too difficult to set things up right.*
 
